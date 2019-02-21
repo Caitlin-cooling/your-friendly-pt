@@ -1,6 +1,5 @@
-# your-friendly-pt
-
-> A Vue.js project
+# Your Friendly PT
+This is a web app written in Vue that provides a user with workout recommendations based on their needs.
 
 ## Build Setup
 
